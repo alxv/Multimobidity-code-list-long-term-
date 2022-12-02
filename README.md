@@ -1,5 +1,5 @@
 
-# Multimobidity-code-list for long-term diseases
+# Multimobidity-code list for long-term diseases
 
 Clinical codes repository to increase the reliability and validity of medical research.
 
