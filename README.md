@@ -22,7 +22,3 @@ Walker LE*, Vincent-Paulraj , Coenen F, Mallen C, Burnside G, Pirmohamed M, Flem
 - CPRD - Aurum
 - Primary care data
 
-
-## Acknowledgements
-
-TRAP funding - University of Liverpool.
