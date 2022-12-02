@@ -13,7 +13,7 @@ Developed these code list as on year 2020 using  CPRD - Aurum medical dictionary
 
 - [@alxv](https://www.github.com/alxv)
 
-Vincent-Paulraj , Coenen F, Mallen C, Burnside G e, Pirmohamed M, Fleming K, Schofield P, Walker LE a*
+Walker LE*, Vincent-Paulraj , Coenen F, Mallen C, Burnside G, Pirmohamed M, Fleming K, Schofield P.
 
 
 ## Features
